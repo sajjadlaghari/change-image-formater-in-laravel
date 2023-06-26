@@ -16,7 +16,7 @@
 
 
 
-### When user select image and formate and upload image after he/she will get output on that formate like below
+###### When user select image and formate and upload image after he/she will get output on that formate like below
 
 ![image](https://github.com/sajjadlaghari/change-image-formater-in-laravel/assets/68752819/8596ca18-4c46-4d6f-ac69-9544323f4d6d)
 
